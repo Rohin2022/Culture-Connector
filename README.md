@@ -1,9 +1,10 @@
 # Culture-Connector
 
 ### Our Inspiration
-47% of the world lives on less than $6.85 per day
-84% live on less than $30 per day
-Two billion people in the world currently suffer from malnutrition as a result of not being able to afford sufficient food
+- 47% of the world lives on less than $6.85 per day
+- 84% live on less than $30 per day
+- Two billion people in the world currently suffer from malnutrition as a result of not being able to afford sufficient food
+- 
 We recognize the **impact that poverty has on millions of people** worldwide, and we hope to **create opportunities** for the affected to **share their language and culture** as a means of financially supporting themselves. Many who are affected by poverty are trapped in a generational cycle of struggling to find employment, and CultureTogether aims to address this issue by allowing them to use their knowledge about their language and culture to earn revenue through teaching.
 
 ### What it Does
